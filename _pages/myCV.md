@@ -3,7 +3,6 @@ layout: archive
 title: "Curriculum Vitae"
 permalink: /myCV/
 layout: single
-author_profile: true
 ---
 
 <!-- View CV -->
