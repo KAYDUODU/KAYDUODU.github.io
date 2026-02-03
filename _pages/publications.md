@@ -4,7 +4,7 @@ title: "Journal Papers"
 permalink: /publications/
 author_profile: true
 ---
-1. Masoud Barati, Gagangeet Singh Aujla, Jose Tomas Llanos, <b>Kwabena Adu Duodu</b>, Omer F Rana, Madeline Carr, Rajiv Ranjan, "Privacy-aware cloud auditing for GDPR compliance verification in online healthcare", <i>IEEE Transactions on Industrial Informatics</i>, vol. 18, no. 7, pp. 4808-4819, Jul. 2021. [PDF](
+1. Masoud Barati, Gagangeet Singh Aujla, Jose Tomas Llanos, <b>Kwabena Adu Duodu</b>, Omer F Rana, Madeline Carr, Rajiv Ranjan, "Privacy-aware cloud auditing for GDPR compliance verification in online healthcare", <i>IEEE Transactions on Industrial Informatics</i>, vol. 18, no. 7, pp. 4808-4819, Jul. 2021. [PDF](https://ieeexplore.ieee.org/abstract/document/9497765)
 <!--
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
