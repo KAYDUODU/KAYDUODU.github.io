@@ -54,49 +54,28 @@ author_profile: true
 <div class="refs">
 
   <div class="ref-row">
-    <div class="ref-badge">#1 <br>Dr. Ellis Solaiman</div>
+    <div class="ref-badge">Dr. Ellis Solaiman</div>
     <div class="ref-body">
       <div class="ref-role">Reader in Computer Science</div>
       <div class="ref-line">Newcastle University, UK</div>
       <div class="ref-line"><a href="mailto:ellis.solaiman@newcastle.ac.uk">ellis.solaiman@newcastle.ac.uk</a></div>
       <!--<div class="ref-line">888-903-7653</div>-->
-      <div class="ref-line">Relationship: PhD Supervisor</div>
+      <div class="ref-line">Relationship: Primary PhD Supervisor</div>
     </div>
   </div>
 
   <div class="ref-row">
-    <div class="ref-badge">#2 - Prof. Rajiv Ranjan</div>
+    <div class="ref-badge">Prof. Rajiv Ranjan</div>
     <div class="ref-body">
       <div class="ref-role">Chair Professor in Computing Science and Internet of Things</div>
       <div class="ref-role">Academic Director, School of Computing</div>
-      <div class="ref-role">Research Director, Newcastle Urban Observatory</div>
       <div class="ref-line">Newcastle University, UK</div>
       <!--<div class="ref-line">525 North Wolfe Street, Room 313</div>
       <div class="ref-line">(410) 555-6789</div> -->
-      <div class="ref-line"><a href="mailto:sbrown@jhu.edu">sbrown@jhu.edu</a></div>
+      <div class="ref-line"><a href="https://rajivranjan.net">Personal Blog</a></div>
+       <div class="ref-line">Relationship: PhD Supervisor</div>
     </div>
   </div>
 
-  <div class="ref-row">
-    <div class="ref-badge">#3 - Dr. Hilda Everment</div>
-    <div class="ref-body">
-      <div class="ref-role">Associate Professor - Department of Psychiatry</div>
-      <div class="ref-line">Johns Hopkins University School of Medicine</div>
-      <div class="ref-line">525 North Wolfe Street, Room 330</div>
-      <div class="ref-line">(410) 555-6790</div>
-      <div class="ref-line"><a href="mailto:heverment@jhmi.edu">heverment@jhmi.edu</a></div>
-    </div>
-  </div>
-
-  <div class="ref-row">
-    <div class="ref-badge">#4 - Ms. Carla Castillo</div>
-    <div class="ref-body">
-      <div class="ref-role">Nursing Supervisor - Pediatric Critical Care Unit</div>
-      <div class="ref-line">Johns Hopkins Hospital</div>
-      <div class="ref-line">555 North Wolfe Street, Halstead 8</div>
-      <div class="ref-line">(410) 555-6791</div>
-      <div class="ref-line"><a href="mailto:ccastillo@jhmi.edu">ccastillo@jhmi.edu</a></div>
-    </div>
-  </div>
 
 </div>
