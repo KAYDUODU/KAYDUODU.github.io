@@ -33,6 +33,7 @@ Research Interests
 * Blockchain
 * Semantic technologies
 * Distributed Systems
+
 He is currently looking at expanding his research acumen to leverage ontology-assisted AI decision making. Key terms for this will include: Ontology-Augmented Generation (OAG), Ontology-Grounded RAG (OG-RAG), GraphRAG and Neuro-Symbolic AI. 
 
 Open for job roles
