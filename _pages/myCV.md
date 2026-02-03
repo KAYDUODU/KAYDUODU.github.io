@@ -9,7 +9,7 @@ author_profile: true
 <!-- View CV -->
 
 <iframe
-  src="https://academicpages.github.io/files/myCV.pdf"
+  src="https://KAYDUODU.github.io/files/myCV.pdf"
   width="100%"
   height="1000px"
   style="border: none;">
