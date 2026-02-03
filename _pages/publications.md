@@ -20,7 +20,6 @@ Conference Papers
 4. Tianpu Li, Tomasz Szydlo, Rajiv Ranjan, <b>Devki Nandan Jha</b>, A Behavioural Fingerprinting-Based Attack Detection Framework for Smart Home Devices, In Proceedings of the <i>31st International Conference on Parallel and Distributed Systems (ICPADS 2025)</i>, pp. 1-8, 2025 [PDF]().
 5. Tianpu Li, Tomasz Szydlo, Rajiv Ranjan, <b>Devki Nandan Jha</b>, A Behavioural Fingerprinting-Based Attack Detection Framework for Smart Home Devices, In Proceedings of the <i>31st International Conference on Parallel and Distributed Systems (ICPADS 2025)</i>, pp. 1-8, 2025 [PDF]().
 6. Tianpu Li, Tomasz Szydlo, Rajiv Ranjan, <b>Devki Nandan Jha</b>, A Behavioural Fingerprinting-Based Attack Detection Framework for Smart Home Devices, In Proceedings of the <i>31st International Conference on Parallel and Distributed Systems (ICPADS 2025)</i>, pp. 1-8, 2025 [PDF]().
-7. Tianpu Li, Tomasz Szydlo, Rajiv Ranjan, <b>Devki Nandan Jha</b>, A Behavioural Fingerprinting-Based Attack Detection Framework for Smart Home Devices, In Proceedings of the <i>31st International Conference on Parallel and Distributed Systems (ICPADS 2025)</i>, pp. 1-8, 2025 [PDF]().
 
 <!--
 {% if site.author.googlescholar %}
