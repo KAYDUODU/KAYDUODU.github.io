@@ -4,11 +4,14 @@ permalink: /myCV/
 author_profile: true
 ---
 
+[Download CV (PDF)](https://kayduodu.github.io/files/myCV.pdf){: .btn .btn--primary}
 <!-- View CV -->
 
+<!--
 <iframe
   src="https://KAYDUODU.github.io/files/myCV.pdf"
   width="100%"
   height="1000px"
   style="border: none;">
 </iframe>
+-->
