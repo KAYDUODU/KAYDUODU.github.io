@@ -1,15 +1,29 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+* Kwabena Adu-Duodu is a 4th year PhD Computer Science student at Newcastle University, UK.
+* This page is still under development.
+* Thank you.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+
+Research Interests
+======
+His PhD research is a multi-disciplinary one involving leveraging Industry 4.0 technologies for sustainability in construction supply chains. In particular his research has involve primarily using:
+* Semantic technologies (e.g. Protégé, Stardog, Ontotext GraphDB)
+* Blockchain technology (Polkadot)
+
+To implement a technological system that:
+* Provides construction product provenance by connecting distributed and(or) isolated product life cycle data.
+* Determines the end-of-life handling of construction products using customisable SWRL (Semantic Web Rule Language) rules.
+* Supports automated compliance assessment flows of products and incorporating human oversight to ensure products are safe for reuse.
+* Leverages polkadot technology for a trusted, interoperable, cloud-based,  compliance assessment platform.
 
 A data-driven personal website
 ======
