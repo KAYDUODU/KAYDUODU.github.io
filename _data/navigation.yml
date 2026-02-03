@@ -33,5 +33,8 @@ main:
   #- title: "Guide"
   #  url: /markdown/
 
-  #- title: "Projects"
-  #  url: /projects/
+  - title: "Projects"
+    url: /projects/
+
+  - title: "References"
+    url: /references/
