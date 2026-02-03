@@ -54,7 +54,7 @@ author_profile: true
 <div class="refs">
 
   <div class="ref-row">
-    <div class="ref-badge">#1 - Dr. Ellis Solaiman</div>
+    <div class="ref-badge">#1 <br>Dr. Ellis Solaiman</div>
     <div class="ref-body">
       <div class="ref-role">Reader in Computer Science</div>
       <div class="ref-line">Newcastle University, UK</div>
@@ -67,10 +67,12 @@ author_profile: true
   <div class="ref-row">
     <div class="ref-badge">#2 - Prof. Rajiv Ranjan</div>
     <div class="ref-body">
-      <div class="ref-role">Professor - Department of Pediatric Nursing</div>
-      <div class="ref-line">Johns Hopkins University School of Nursing</div>
-      <div class="ref-line">525 North Wolfe Street, Room 313</div>
-      <div class="ref-line">(410) 555-6789</div>
+      <div class="ref-role">Chair Professor in Computing Science and Internet of Things</div>
+      <div class="ref-role">Academic Director, School of Computing</div>
+      <div class="ref-role">Research Director, Newcastle Urban Observatory</div>
+      <div class="ref-line">Newcastle University, UK</div>
+      <!--<div class="ref-line">525 North Wolfe Street, Room 313</div>
+      <div class="ref-line">(410) 555-6789</div> -->
       <div class="ref-line"><a href="mailto:sbrown@jhu.edu">sbrown@jhu.edu</a></div>
     </div>
   </div>
