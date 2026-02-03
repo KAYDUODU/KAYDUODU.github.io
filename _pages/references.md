@@ -54,18 +54,18 @@ author_profile: true
 <div class="refs">
 
   <div class="ref-row">
-    <div class="ref-badge">#1 - Tom Rolland</div>
+    <div class="ref-badge">#1 - Dr. Ellis Solaiman</div>
     <div class="ref-body">
-      <div class="ref-role">Human resources Manager</div>
-      <div class="ref-line">33, Wrench Way, New York, 6780</div>
-      <div class="ref-line"><a href="mailto:tomroll@email.com">tomroll@email.com</a></div>
-      <div class="ref-line">888-903-7653</div>
-      <div class="ref-line">Relationship: Direct Supervisor</div>
+      <div class="ref-role">Reader in Computer Science</div>
+      <div class="ref-line">Newcastle University, UK</div>
+      <div class="ref-line"><a href="mailto:ellis.solaiman@newcastle.ac.uk">ellis.solaiman@newcastle.ac.uk</a></div>
+      <!--<div class="ref-line">888-903-7653</div>-->
+      <div class="ref-line">Relationship: PhD Supervisor</div>
     </div>
   </div>
 
   <div class="ref-row">
-    <div class="ref-badge">#2 - Dr. Susan Brown</div>
+    <div class="ref-badge">#2 - Prof. Rajiv Ranjan</div>
     <div class="ref-body">
       <div class="ref-role">Professor - Department of Pediatric Nursing</div>
       <div class="ref-line">Johns Hopkins University School of Nursing</div>
