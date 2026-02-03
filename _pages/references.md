@@ -22,7 +22,7 @@ author_profile: true
 
 /* Left badge box */
 .ref-badge {
-  background: #efe3c9;           /* light tan */
+  background: #499FC1;           /* light tan */
   padding: 10px 14px;
   font-weight: 700;
   border-radius: 3px;
