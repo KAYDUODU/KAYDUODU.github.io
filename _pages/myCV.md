@@ -9,7 +9,7 @@ author_profile: true
 ## View CV
 
 <iframe
-  src="/Kwabena_Adu-Duodu_CV.pdf"
+  src="/myCV.pdf"
   width="100%"
   height="1000px"
   style="border: none;">
