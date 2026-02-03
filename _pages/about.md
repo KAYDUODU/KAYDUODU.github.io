@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Biography"
-excerpt: "About me"
+excerpt: "About Kwabena"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +14,7 @@ redirect_from:
 
 A brief about Kwabena's PhD research
 ======
-His PhD research is a multi-disciplinary one involving leveraging Industry 4.0 technologies for sustainability in construction supply chains. In particular his research has involve primarily using:
+His PhD research is a multi-disciplinary one involving leveraging Industry 4.0 technologies for sustainability in construction supply chains. In particular his research has involved primarily using:
 * Semantic technologies (e.g. Protégé, Stardog, Ontotext GraphDB)
 * Blockchain technology (Polkadot)
 
