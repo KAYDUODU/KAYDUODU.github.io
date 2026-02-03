@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 * Kwabena Adu-Duodu is a 4th year PhD Computer Science student at Newcastle University, UK.
-* This page is still under development.
-* Thank you.
+
 
 
 A brief about Kwabena's PhD research
