@@ -25,7 +25,7 @@ To implement a technological system that:
 * Supports automated compliance assessment flows of products and incorporating human oversight to ensure products are safe for reuse.
 * Leverages polkadot technology for a trusted, interoperable, cloud-based,  compliance assessment platform.
 
-Details of this work will be published online on the Newcastle university [thesis website](https://theses.ncl.ac.uk/jspui/) once he completes his PhD.
+Details of this work will be published online on the Newcastle university [theses website](https://theses.ncl.ac.uk/jspui/) once he completes his PhD.
 
 Research Interests
 ======
@@ -34,7 +34,7 @@ Research Interests
 * Blockchain
 * Semantic technologies
 * Distributed Systems
-* He is currently looking at expanding his research acumen to leverage ontology-assisted AI decision making. Key terms for this will include: Ontology-Augmented Generation (OAG), Ontology-Grounded RAG (OG-RAG), GraphRAG and Neuro-Symbolic AI. 
+He is currently looking at expanding his research acumen to leverage ontology-assisted AI decision making. Key terms for this will include: Ontology-Augmented Generation (OAG), Ontology-Grounded RAG (OG-RAG), GraphRAG and Neuro-Symbolic AI. 
 
 Open for job roles
 ======
