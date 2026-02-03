@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-## View CV
+<!-- View CV -->
 
 <iframe
   src="_pages/myCV.pdf"
