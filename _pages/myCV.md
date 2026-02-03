@@ -1,8 +1,9 @@
 ---
-layout: archive
+<!-- layout: archive -->
 title: "Curriculum Vitae"
 permalink: /myCV/
-layout: single
+<!-- layout: single -->
+author_profile: true
 ---
 
 <!-- View CV -->
