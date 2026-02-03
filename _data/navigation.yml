@@ -24,10 +24,14 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+  #  url: /cv/
+    url: /myCV/
     
   # - title: "CV"
   #   url: /cv-json/
     
   #- title: "Guide"
   #  url: /markdown/
+
+  #- title: "Projects"
+  #  url: /projects/
